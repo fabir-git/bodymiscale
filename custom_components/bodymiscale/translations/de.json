@@ -5,19 +5,19 @@
             "problem": "Problem"
         }
     },
-    "female": "Frau"
-    "male": "Mann"
-    "height": "Groesse"
-    "weight": "Gewicht"
-    "gender": "Geschlecht"
-    "age": "Alter"
-    "bodyfat": "Koerperfett"
-    "water": "Wasser"
-    "muscle": "Muskeln"
-    "visceral_fat": "viszerales Fett"
-    "bone": "Knochen"
-    "basal_metabolism": "Basalmetabolismus"
-    "protein": "Proteine"
-    "impedance": "Impedanz"  
-    "title": "Bodymiscale"
+    "female": "Frau",
+    "male": "Mann",
+    "height": "Groesse",
+    "weight": "Gewicht",
+    "gender": "Geschlecht",
+    "age": "Alter",
+    "bodyfat": "Koerperfett",
+    "water": "Wasser",
+    "muscle": "Muskeln",
+    "visceral_fat": "viszerales Fett",
+    "bone": "Knochen",
+    "basal_metabolism": "Basalmetabolismus",
+    "protein": "Proteine",
+    "impedance": "Impedanz",
+    "title": "Bodymiscale",
 }
